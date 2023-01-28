@@ -1,0 +1,34 @@
+Area,Grade,Course Name,Course Type,Course Code
+The Arts,9,Dance,Open,ATC1O
+The Arts,10,Dance,Open,ATC2O
+The Arts,11,Dance,University/College,ATC3M
+The Arts,11,Dance,Open,ATC3O
+The Arts,12,Dance,University/College,ATC4M
+The Arts,12,Dance,Workplace,ATC4E
+The Arts,9,Drama,Open,ADA1O
+The Arts,10,Drama,Open,ADA2O
+The Arts,11,Drama,University/College,ADA3M
+The Arts,11,Drama,Open,ADA3O
+The Arts,12,Drama,University/College,ADA4M
+The Arts,12,Drama,Workplace,ADA4E
+The Arts,10,Integrated Arts,Open,ALC1O
+The Arts,9,Integrated Arts,Open,ALC2O
+The Arts,11,Exploring and Creating in the Arts,Open,AEA3O
+The Arts,12,Exploring and Creating in the Arts,Open,AEA4O
+The Arts,10,Media Arts,Open,ASM2O
+The Arts,11,Media Arts,University/College,ASM3M
+The Arts,11,Media Arts,Open,ASM3O
+The Arts,12,Media Arts,University/College,ASM4M
+The Arts,12,Media Arts,Workplace,ASM4E
+The Arts,9,Music,Open,AMU1O
+The Arts,10,Music,Open,AMU2O
+The Arts,11,Music,University/College,AMU3M
+The Arts,11,Music,Open,AMU3O
+The Arts,12,Music,University/College,AMU4M
+The Arts,12,Music,Workplace,AMU4E
+The Arts,9,Visual Arts,Open,AVI1O
+The Arts,10,Visual Arts,Open,AVI2O
+The Arts,11,Visual Arts,University/College,AVI3M
+The Arts,11,Visual Arts,Open,AVI3O
+The Arts,12,Visual Arts,University/College,AVI4M
+The Arts,12,Visual Arts,Workplace,AVI4E

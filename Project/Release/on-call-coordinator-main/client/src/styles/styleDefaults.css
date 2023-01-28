@@ -1,0 +1,43 @@
+@import './propertySets.css';
+
+:root {
+    /*  Colours */
+  --appColour: #153c7a;
+  --appColourLight: #6183ba;
+  --appColourLightest: #b5c9e8;
+  --redColourLightest: #f7dfe4;
+  --successColour: #2ecc71;
+  --brighterSuccess: #11e268;
+  --failColour: #ff0000;
+  --appColourDarker: #0c2348;
+  --appColourDarkest: #051022;
+
+  --complementaryRed: #7a153c;
+  --complementaryGreen: #3c7a15;
+  --dashBoardBackground: #6c727c;  
+  --dashBoardText: #a1f0ee;
+
+  --appAccentColor: #e4d8ef;
+
+    /*  Fonts   */
+  --fontFamily: Raleway;
+  --fontWeightRegular: 400;
+  --fontWeightMedium: 500;
+  --fontWeightSemiBold: 600;
+  --fontWeightBold: 700;
+}
+
+@font-face{
+    font-family: Raleway;
+    src:url(Raleway-SemiBoldItalic.ttf) format(truetype),
+    url(Raleway-Bold.ttf) format(truetype),
+    url(Raleway-BoldItalic.ttf) format(truetype),
+    url(Raleway-Medium.ttf) format(truetype),
+    url(Raleway-MediumItalic.ttf) format(truetype),
+    url(Raleway-Regular.ttf) format(truetype),
+    url(Raleway-SemiBold.ttf) format(truetype),
+}
+
+html,body,#root{
+  height:100%;
+}

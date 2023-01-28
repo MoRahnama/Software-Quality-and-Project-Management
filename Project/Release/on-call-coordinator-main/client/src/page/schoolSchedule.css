@@ -1,0 +1,35 @@
+@import '../styles/propertySets.css';
+@import '../styles/styleDefaults.css';
+
+
+.schoolSchedule-form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-color: var(--appColourLightest); */
+}
+
+.schoolSchedule-info{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:white;
+}
+
+.schoolSchedule-box{
+    height: 45%;
+    width: 45%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--appColourLight);
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+}
